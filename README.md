@@ -13,5 +13,7 @@ To run the code, install python2 and libraries pytesseract and openCV.
 
 ![Screenshot 2021-06-08 at 10 22 25 PM](https://user-images.githubusercontent.com/83071313/121230099-41447b00-c8a8-11eb-986e-60125733215c.png)
 
+<img width="950" alt="Screenshot 2021-06-08 at 10 23 23 PM" src="https://user-images.githubusercontent.com/83071313/121230367-997b7d00-c8a8-11eb-84dd-6de7659ed7c3.png">
+
 
 
