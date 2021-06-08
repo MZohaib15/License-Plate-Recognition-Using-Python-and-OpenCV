@@ -8,3 +8,10 @@ This license plate number is then displayed to the user.
 
 To run the code, install python2 and libraries pytesseract and openCV. 
 
+## Running Application Screenshots
+
+
+![Screenshot 2021-06-08 at 10 22 25 PM](https://user-images.githubusercontent.com/83071313/121230099-41447b00-c8a8-11eb-986e-60125733215c.png)
+
+
+
